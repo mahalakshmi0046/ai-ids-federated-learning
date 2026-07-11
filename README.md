@@ -73,6 +73,18 @@ streamlit run dashboard/app.py
 ```
 
 ## 📦 Requirements
+torch
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+streamlit
+fastapi
+uvicorn
+shap
+lime
+scapy
 ## 🌐 Real-World Application
 
 Applicable in:
