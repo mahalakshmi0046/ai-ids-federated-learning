@@ -1,0 +1,11 @@
+﻿raw_data/
+data/
+venv/
+models/*.pth
+models/*.pkl
+models/*.npy
+models/__pycache__/
+results/
+__pycache__/
+*.pyc
+*.pyo
