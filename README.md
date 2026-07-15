@@ -115,7 +115,7 @@ Applicable in:
 
 **Mahalakshmi**
 Final Year B.Tech CSE
-2025-26 Batch
+2026-27 Batch
 
 ## 📚 References
 
