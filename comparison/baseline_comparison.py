@@ -1,7 +1,7 @@
 # ============================================================
 # BASELINE COMPARISON — FL vs Traditional ML
 # Proves federated learning works with minimal accuracy cost
-# This is your KEY research contribution proof!
+# This is the KEY research contribution proof!
 # ============================================================
 
 import numpy as np
